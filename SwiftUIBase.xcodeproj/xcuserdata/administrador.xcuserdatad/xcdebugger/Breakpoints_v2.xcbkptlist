@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5AEC2588-D5E4-4058-A8BF-9839B5AF3226"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95F926D8-4445-4BB3-8D3A-F6D91E2772BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIBase/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A967F24A-AC4E-4573-9206-33134552687C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIBase/Shared/DatabaseHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A967F24A-AC4E-4573-9206-33134552687C - a12ca9ce5b661e78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SwiftUIBase.DatabaseHelper.getProducts() async throws -&gt; Swift.Array&lt;SwiftUIBase.Product&gt;"
+                  moduleName = "SwiftUIBase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/SwiftUIBase/SwiftUIBase/Shared/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "A967F24A-AC4E-4573-9206-33134552687C - f9790bfdeaa6e72c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SwiftUIBase.DatabaseHelper.getProducts() async throws -&gt; Swift.Array&lt;SwiftUIBase.Product&gt;"
+                  moduleName = "SwiftUIBase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/SwiftUIBase/SwiftUIBase/Shared/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "A967F24A-AC4E-4573-9206-33134552687C - 26c7bc5845f2d27e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUIBase.DatabaseHelper.getProducts() async throws -&gt; Swift.Array&lt;SwiftUIBase.Product&gt;"
+                  moduleName = "SwiftUIBase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/SwiftUIBase/SwiftUIBase/Shared/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "A967F24A-AC4E-4573-9206-33134552687C - 6a553aaf4cc8cc73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SwiftUIBase.DatabaseHelper.getProducts() async throws -&gt; Swift.Array&lt;SwiftUIBase.Product&gt;"
+                  moduleName = "SwiftUIBase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/administrador/Desktop/SwiftUIBase/SwiftUIBase/Shared/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C528F9C0-5CB6-4EC0-B2C6-AA2985082FBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIBase/Shared/DatabaseHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
